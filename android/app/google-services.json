@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681098093595",
+    "project_id": "test-dcb3b",
+    "storage_bucket": "test-dcb3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681098093595:android:0e18ca24ecc1bf2cdcc4be",
+        "android_client_info": {
+          "package_name": "com.example.custom_notification_sound"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLLNVqTtm-kAvEDYpUpGiWurmJPmUXKoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
