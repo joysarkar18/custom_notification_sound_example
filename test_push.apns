@@ -1,0 +1,11 @@
+
+{   "Simulator Target Bundle": "com.example.customNotificationSound",
+    "aps": {
+        "alert": {
+            "title": "Test Push from APNS File",
+            "subtitle": "Test Message",
+        },
+        "badge": 1,
+        "sound": "notification_sound.aiff",
+    },
+}
